@@ -1,6 +1,11 @@
 # FastAPI_codes
 
 A collection of FastAPI examples, utilities, and project code snippets for learning and building backend APIs with Python's FastAPI framework.
+---
+## 🔨 Tools and Sites
+- [tutorialspoint](https://www.tutorialspoint.com/fastapi/index.htm)
+- [FastAPI docs](https://fastapi.tiangolo.com/)
+- Postman for endpoint testing and validation
 
 ---
 
@@ -9,6 +14,7 @@ A collection of FastAPI examples, utilities, and project code snippets for learn
 - Pydantic for request and response validation
 - implemented file based storage in a json lines file (as seen "students.json")
 - json for data parsing from and into requests and responses.
+  
 ---
 
 ## 🔗 API Endpoints
